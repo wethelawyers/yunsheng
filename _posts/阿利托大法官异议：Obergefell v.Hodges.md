@@ -5,10 +5,8 @@ date: 2019-06-07
 Author: 云声
 categories: 
 tags: [lovewins, translation]
-
 comments: true
-
-___
+---
 
 # 阿利托大法官异议：Obergefell v.Hodges
 
