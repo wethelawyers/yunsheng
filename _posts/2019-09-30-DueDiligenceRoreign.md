@@ -22,13 +22,13 @@ comments: true
 
 > [HongKong Cyber Search Centre of the Integrated Companies Registry Information System](https://www.icris.cr.gov.hk/csci/)
 > 
-> [Get Information About Companies or Businesses in Taiwan](https://findbiz.nat.gov.tw/)
+> [Get Information about Companies or Businesses in Taiwan](https://findbiz.nat.gov.tw/)
 > 
 > [Singapore Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/home/)
 > 
 > [British Virgin Islands Financial Services Commission](https://www.bvifsc.vg/en-gb/regulatedentities.aspx)
 > 
-> [Australia Bussiness Register](https://abr.business.gov.au/)
+> [Australia Bussiness Register Lookup](https://abr.business.gov.au/)
 > 
 > [India Ministry of corporate Affairs](http://www.mca.gov.in/)
 > 
