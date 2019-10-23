@@ -210,3 +210,5 @@ comments: true
 > [见微数据：信息披露检索工具](https://www.jianweidata.com/)
 > 
 > [司法部：法律法规数据库](http://search.chinalaw.gov.cn/search2.html)
+>
+> [CNKI法库：中国法律知识资源总库(需账号或IP登录)](http://law.cnki.net/)
