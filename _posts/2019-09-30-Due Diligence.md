@@ -211,4 +211,4 @@ comments: true
 > 
 > [司法部：法律法规数据库](http://search.chinalaw.gov.cn/search2.html)
 >
-> [CNKI法库：中国法律知识资源总库(需账号或IP登录)](http://law.cnki.net/)
+> [CNKI法库：中国法律知识资源总库(需账号/IP登录)](http://law.cnki.net/)
