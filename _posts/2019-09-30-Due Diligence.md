@@ -148,6 +148,12 @@ comments: true
 
 > [中国证券监督管理委员会](http://www.csrc.gov.cn/pub/newsite/)
 > 
+> [证监会首次公开发行股票信息预先披露查询系统](http://eid.csrc.gov.cn/ipo/)
+>
+> [证监会非上市公众公司信息披露](http://eid.csrc.gov.cn/nlpc/)
+>
+> [证监会基金信息披露](http://eid.csrc.gov.cn/fund/)
+> 
 > [上海证券交易所](http://www.sse.com.cn/)
 > 
 > [深圳证券交易所](http://www.szse.cn/)
