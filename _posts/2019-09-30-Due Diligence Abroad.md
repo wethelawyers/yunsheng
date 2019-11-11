@@ -77,3 +77,6 @@ comments: true
 > [Legislation of UK](http://www.legislation.gov.uk/)
 > 
 > [Canadian Legal Information](https://www.canlii.org/en/)
+> 
+> [Market Screener](https://www.marketscreener.com/)
+>
