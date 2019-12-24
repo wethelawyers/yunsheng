@@ -92,11 +92,11 @@ comments: true
 ### 企业资产信息查询
 
 
-> [国家知识产权局专利检索系统](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)
+> [国家知识产权局专利检索系统](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiIndex.shtml)
 > 
 > [中国及多国专利审查信息查询](http://cpquery.sipo.gov.cn/)   
 > 
-> [中国商标查询](http://sbj.saic.gov.cn/sbcx/)  
+> [中国商标查询](http://wcjs.sbj.cnipa.gov.cn/txnT01.do)  
 > 
 > [标库网（商标查询备用网站）](http://www.tmkoo.com/)
 > 
