@@ -80,3 +80,4 @@ comments: true
 > 
 > [Market Screener](https://www.marketscreener.com/)
 >
+> [Cayman Islands Monetary Authority](https://www.cima.ky/laws-and-regulations)
