@@ -220,3 +220,5 @@ comments: true
 > [司法部：法律法规数据库](http://search.chinalaw.gov.cn/search2.html)
 >
 > [CNKI法库：中国法律知识资源总库(需账号/IP登录)](http://law.cnki.net/)
+>
+> [商务部：全球法规网-境外法规](http://policy.mofcom.gov.cn/page/list/nations.html)
