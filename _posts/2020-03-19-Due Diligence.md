@@ -96,6 +96,8 @@ comments: true
 > 
 > [中国及多国专利审查信息查询](http://cpquery.sipo.gov.cn/)   
 > 
+> [中国专利公布公告](http://epub.sipo.gov.cn/index.action)   
+>
 > [中国商标查询](http://wcjs.sbj.cnipa.gov.cn/txnT01.do)  
 > 
 > [标库网（商标查询备用网站）](http://www.tmkoo.com/)
